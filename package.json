@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hyoga/uni-socket.io": "^3.0.4",
+    "weapp.socket.io": "^2.2.1"
+  }
+}
